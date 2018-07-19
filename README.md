@@ -8,3 +8,7 @@ So I decided to work on new format.
 The extension will be **.ae**
 
 Extension and name may be changed in the future.
+
+[AssetKit](https://github.com/recp/assetkit) will be loader of this format. Or I may provide alternative loader. 
+
+I will work on this format but I will push spec details over time.
