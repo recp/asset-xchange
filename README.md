@@ -7,4 +7,4 @@ So I decided to work on new format.
 
 The extension will be **.ae**
 
-Extension and name may change in the future.
+Extension and name may be changed in the future.
